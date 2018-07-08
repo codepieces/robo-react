@@ -1,0 +1,16 @@
+.emptyCell {
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.occupiedCell {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.table {
+    width: 200px;
+    height: 200px;
+    border: solid;
+}
